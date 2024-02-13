@@ -1,0 +1,10 @@
+C:\Users\Andrew\Documents\C#\MineSweeperMini\MineSweeperMini\bin\Debug\MineSweeperMini.exe.config
+C:\Users\Andrew\Documents\C#\MineSweeperMini\MineSweeperMini\bin\Debug\MineSweeperMini.exe
+C:\Users\Andrew\Documents\C#\MineSweeperMini\MineSweeperMini\bin\Debug\MineSweeperMini.pdb
+C:\Users\Andrew\Documents\C#\MineSweeperMini\MineSweeperMini\obj\Debug\MineSweeperMini.csproj.AssemblyReference.cache
+C:\Users\Andrew\Documents\C#\MineSweeperMini\MineSweeperMini\obj\Debug\MineSweeperMini.Form1.resources
+C:\Users\Andrew\Documents\C#\MineSweeperMini\MineSweeperMini\obj\Debug\MineSweeperMini.Properties.Resources.resources
+C:\Users\Andrew\Documents\C#\MineSweeperMini\MineSweeperMini\obj\Debug\MineSweeperMini.csproj.GenerateResource.cache
+C:\Users\Andrew\Documents\C#\MineSweeperMini\MineSweeperMini\obj\Debug\MineSweeperMini.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Documents\C#\MineSweeperMini\MineSweeperMini\obj\Debug\MineSweeperMini.exe
+C:\Users\Andrew\Documents\C#\MineSweeperMini\MineSweeperMini\obj\Debug\MineSweeperMini.pdb
